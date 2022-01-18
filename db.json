@@ -1,0 +1,26 @@
+"billings": [
+  {
+    "deal": "Palvelinylläpito",
+    "hubspots_deal_id": 1,
+    "customer_name": "Pasin putki ja mutka",
+    "total": 250,
+    "billable_rows": 2,
+    "last_billing_q": "Q1/22"  
+  },
+  {
+    "deal": "Palvelinylläpito",
+    "hubspots_deal_id": 2,
+    "customer_name": "Matin paja",
+    "total": 500,
+    "billable_rows": 1,
+    "last_billing_q": "Q1/22"  
+  },
+  {
+    "deal": "Palvelinylläpito",
+    "hubspots_deal_id": 3,
+    "customer_name": "Maunon muona",
+    "total": 200,
+    "billable_rows": 1,
+    "last_billing_q": "Q1/22"  
+    }
+]
